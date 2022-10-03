@@ -13,6 +13,18 @@ Activate virtualenv
 conda activate env_cv
 ```
 
+Install opencv library
+```bash
+pip install opencv-python
+```
+
+
+Install numpy library
+```bash
+pip install numpy
+```
+
+
 Run Chapter file:
 ```bash
 python chapter1.py
